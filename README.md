@@ -11,4 +11,4 @@ Interests✨
 ▫ Drawing<br>
 ▫ Playing/listening to music<br>
 ▫ Video editing<br>
-▫ programming<br>
+▫ Programming<br>
