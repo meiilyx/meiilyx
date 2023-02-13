@@ -7,8 +7,8 @@ Recently I started learning programming, just for fun though!
 
 Interests✨
 ----------
-▫ Gaming
-▫ Drawing
-▫ Playing/lisening music
-▫ Video editing
-▫ programming
+▫ Gaming<br>
+▫ Drawing<br>
+▫ Playing/listening to music<br>
+▫ Video editing<br>
+▫ programming<br>
