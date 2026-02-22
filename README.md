@@ -1,5 +1,5 @@
 Hello!😊
-I'm Meike, A 17 year old amateur video editor from the Netherlands.
+I'm Meike, A 19 year old amateur video editor from the Netherlands.
 -
 Recently I started learning programming, just for fun though!
 
